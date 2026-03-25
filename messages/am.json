@@ -1,0 +1,128 @@
+{
+  "common": {
+    "appName": "የኢትዮጵያ AI ሲቪ እና የስራ ረዳት",
+    "loading": "በመጫን ላይ...",
+    "error": "ስህተት ተከስቷል",
+    "retry": "እንደገና ሞክር",
+    "save": "አስቀምጥ",
+    "cancel": "ሰርዝ",
+    "delete": "ሰርዝ",
+    "download": "አውርድ",
+    "back": "ተመለስ",
+    "next": "ቀጣይ",
+    "submit": "አስገባ",
+    "close": "ዝጋ"
+  },
+  "nav": {
+    "home": "መነሻ",
+    "dashboard": "ዳሽቦርድ",
+    "profile": "መገለጫ",
+    "cvBuilder": "ሲቪ ገንቢ",
+    "coverLetter": "የሽፋን ደብዳቤ",
+    "jobs": "የስራ ምክሮች",
+    "documents": "ሰነዶቼ",
+    "signIn": "ግባ",
+    "signUp": "ተመዝገብ",
+    "signOut": "ውጣ"
+  },
+  "home": {
+    "headline": "የኢትዮጵያ AI ሲቪ እና የስራ ረዳት",
+    "subheadline": "ሙያዊ ሲቪዎችን እና የሽፋን ደብዳቤዎችን ይፍጠሩ፣ የስራ ዕድሎችን ያግኙ፣ እና የሙያ መመሪያ ያግኙ — በእንግሊዝኛ ወይም በአማርኛ።",
+    "getStarted": "ጀምር",
+    "signIn": "ግባ"
+  },
+  "profile": {
+    "title": "መገለጫዬ",
+    "stepPersonal": "የግል መረጃ",
+    "stepEducation": "ትምህርት",
+    "stepExperience": "የስራ ልምድ",
+    "stepSkills": "ክህሎቶች",
+    "fullName": "ሙሉ ስም",
+    "phone": "ስልክ ቁጥር",
+    "email": "የኢሜይል አድራሻ",
+    "location": "አካባቢ",
+    "linkedIn": "LinkedIn መገለጫ (አማራጭ)",
+    "institution": "ተቋም",
+    "degree": "ዲግሪ",
+    "fieldOfStudy": "የጥናት መስክ",
+    "startYear": "የጀመሩበት ዓመት",
+    "endYear": "የጨረሱበት ዓመት (አሁን ካለ ባዶ ይተው)",
+    "company": "ኩባንያ",
+    "jobTitle": "የስራ ማዕረግ",
+    "startDate": "የጀመሩበት ቀን",
+    "endDate": "የጨረሱበት ቀን (አሁን ካለ ባዶ ይተው)",
+    "description": "መግለጫ",
+    "skills": "ክህሎቶች (በኮማ ይለዩ)",
+    "saveProfile": "መገለጫ አስቀምጥ",
+    "profileSaved": "መገለጫ በተሳካ ሁኔታ ተቀምጧል",
+    "completeProfile": "ምክሮችን ለማግኘት መገለጫዎን ያጠናቅቁ"
+  },
+  "cv": {
+    "title": "ሲቪ ገንቢ",
+    "generate": "ሲቪ ፍጠር",
+    "generating": "ሲቪዎን በመፍጠር ላይ...",
+    "download": "PDF አውርድ",
+    "regenerate": "ሲቪ እንደገና ፍጠር",
+    "sections": {
+      "personalInfo": "የግል መረጃ",
+      "summary": "ሙያዊ ማጠቃለያ",
+      "education": "ትምህርት",
+      "experience": "የስራ ልምድ",
+      "skills": "ክህሎቶች"
+    },
+    "error": {
+      "timeout": "የሲቪ ፍጠር ጊዜ አልፏል። እባክዎ እንደገና ይሞክሩ።",
+      "failed": "ሲቪ መፍጠር አልተሳካም። እባክዎ እንደገና ይሞክሩ።"
+    }
+  },
+  "coverLetter": {
+    "title": "የሽፋን ደብዳቤ ፈጣሪ",
+    "jobTitle": "የስራ ማዕረግ",
+    "company": "የኩባንያ ስም",
+    "generate": "የሽፋን ደብዳቤ ፍጠር",
+    "generating": "የሽፋን ደብዳቤዎን በመፍጠር ላይ...",
+    "download": "PDF አውርድ",
+    "error": {
+      "timeout": "የሽፋን ደብዳቤ ፍጠር ጊዜ አልፏል። እባክዎ እንደገና ይሞክሩ።",
+      "failed": "የሽፋን ደብዳቤ መፍጠር አልተሳካም። እባክዎ እንደገና ይሞክሩ።"
+    }
+  },
+  "recommendations": {
+    "title": "የስራ ምክሮች",
+    "jobsTitle": "የሚመከሩ ስራዎች",
+    "upskillingTitle": "የክህሎት ማሻሻያ ሀብቶች",
+    "matchReason": "ለምን ይስማማዎታል",
+    "provider": "አቅራቢ",
+    "noProfile": "ግላዊ የስራ ምክሮችን ለማግኘት መገለጫዎን ያጠናቅቁ።",
+    "completeProfile": "መገለጫ ያጠናቅቁ"
+  },
+  "documents": {
+    "title": "ሰነዶቼ",
+    "type": {
+      "cv": "ሲቪ",
+      "cover_letter": "የሽፋን ደብዳቤ"
+    },
+    "createdAt": "የተፈጠረበት",
+    "jobTitle": "የስራ ማዕረግ",
+    "view": "ይመልከቱ",
+    "deleteConfirm": "ይህን ሰነድ መሰረዝ ይፈልጋሉ?",
+    "deleteSuccess": "ሰነድ በተሳካ ሁኔታ ተሰርዟል",
+    "empty": "እስካሁን ሰነዶች የሉም። ሲቪ ወይም የሽፋን ደብዳቤ ፍጠሩ።"
+  },
+  "language": {
+    "select": "ቋንቋ",
+    "en": "English",
+    "am": "አማርኛ"
+  },
+  "errors": {
+    "required": "ይህ መስክ ያስፈልጋል",
+    "invalidEmail": "እባክዎ ትክክለኛ የኢሜይል አድራሻ ያስገቡ",
+    "invalidPhone": "እባክዎ ትክክለኛ ስልክ ቁጥር ያስገቡ",
+    "invalidYear": "እባክዎ ትክክለኛ ዓመት ያስገቡ",
+    "invalidDateRange": "የማብቂያ ቀን ከጀማሪ ቀን በኋላ መሆን አለበት",
+    "minLength": "ቢያንስ {min} ቁምፊዎች መሆን አለበት",
+    "unauthorized": "ይህን ሀብት ለማግኘት ፈቃድ የለዎትም",
+    "notFound": "ሀብቱ አልተገኘም",
+    "forbidden": "መዳረሻ ተከልክሏል"
+  }
+}

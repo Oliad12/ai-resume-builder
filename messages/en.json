@@ -1,0 +1,128 @@
+{
+  "common": {
+    "appName": "Ethiopia AI CV & Job Assistant",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "download": "Download",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "close": "Close"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "cvBuilder": "CV Builder",
+    "coverLetter": "Cover Letter",
+    "jobs": "Job Recommendations",
+    "documents": "My Documents",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out"
+  },
+  "home": {
+    "headline": "Ethiopia AI CV & Job Assistant",
+    "subheadline": "Create professional CVs and cover letters, discover job opportunities, and receive career guidance — in English or Amharic.",
+    "getStarted": "Get Started",
+    "signIn": "Sign In"
+  },
+  "profile": {
+    "title": "My Profile",
+    "stepPersonal": "Personal Information",
+    "stepEducation": "Education",
+    "stepExperience": "Work Experience",
+    "stepSkills": "Skills",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "location": "Location",
+    "linkedIn": "LinkedIn Profile (optional)",
+    "institution": "Institution",
+    "degree": "Degree",
+    "fieldOfStudy": "Field of Study",
+    "startYear": "Start Year",
+    "endYear": "End Year (leave blank if current)",
+    "company": "Company",
+    "jobTitle": "Job Title",
+    "startDate": "Start Date",
+    "endDate": "End Date (leave blank if current)",
+    "description": "Description",
+    "skills": "Skills (comma-separated)",
+    "saveProfile": "Save Profile",
+    "profileSaved": "Profile saved successfully",
+    "completeProfile": "Please complete your profile to get recommendations"
+  },
+  "cv": {
+    "title": "CV Builder",
+    "generate": "Generate CV",
+    "generating": "Generating your CV...",
+    "download": "Download PDF",
+    "regenerate": "Regenerate CV",
+    "sections": {
+      "personalInfo": "Personal Information",
+      "summary": "Professional Summary",
+      "education": "Education",
+      "experience": "Work Experience",
+      "skills": "Skills"
+    },
+    "error": {
+      "timeout": "CV generation timed out. Please try again.",
+      "failed": "Failed to generate CV. Please try again."
+    }
+  },
+  "coverLetter": {
+    "title": "Cover Letter Generator",
+    "jobTitle": "Job Title",
+    "company": "Company Name",
+    "generate": "Generate Cover Letter",
+    "generating": "Generating your cover letter...",
+    "download": "Download PDF",
+    "error": {
+      "timeout": "Cover letter generation timed out. Please try again.",
+      "failed": "Failed to generate cover letter. Please try again."
+    }
+  },
+  "recommendations": {
+    "title": "Job Recommendations",
+    "jobsTitle": "Recommended Jobs",
+    "upskillingTitle": "Upskilling Resources",
+    "matchReason": "Why this matches you",
+    "provider": "Provider",
+    "noProfile": "Complete your profile to get personalized job recommendations.",
+    "completeProfile": "Complete Profile"
+  },
+  "documents": {
+    "title": "My Documents",
+    "type": {
+      "cv": "CV",
+      "cover_letter": "Cover Letter"
+    },
+    "createdAt": "Created",
+    "jobTitle": "Job Title",
+    "view": "View",
+    "deleteConfirm": "Are you sure you want to delete this document?",
+    "deleteSuccess": "Document deleted successfully",
+    "empty": "No documents yet. Generate a CV or cover letter to get started."
+  },
+  "language": {
+    "select": "Language",
+    "en": "English",
+    "am": "አማርኛ"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPhone": "Please enter a valid phone number",
+    "invalidYear": "Please enter a valid year",
+    "invalidDateRange": "End date must be after start date",
+    "minLength": "Must be at least {min} characters",
+    "unauthorized": "You are not authorized to access this resource",
+    "notFound": "Resource not found",
+    "forbidden": "Access denied"
+  }
+}
